@@ -1,0 +1,2 @@
+F:\CTDL&GT\qicksort\Debug\qicksort.exe
+F:\CTDL&GT\qicksort\Debug\qicksort.pdb
